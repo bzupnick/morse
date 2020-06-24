@@ -254,7 +254,7 @@ Sends an answer to an inline query.
 
 ### [`answerCallbackQuery`](https://core.telegram.org/bots/api#answercallbackquery)
 
-Sends an answer to an callback query sent from inline keyboards.
+Sends an answer to a callback query sent from inline keyboards.
 
 ```clojure
 (api/answer-callback token
